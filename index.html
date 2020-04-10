@@ -15,9 +15,32 @@
     <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
-    <div id="maCarte">
+    <div id="maCarte"></div>
 
-    </div>
+    <!-- Remplacer # par votre fichier de traitement du formulaire -->
+    <form action="#" method="get">
+      <div>
+        <label for="adresse">Adresse</label>
+        <input type="text" name="adresse" id="adresse" />
+      </div>
+      <div>
+        <label for="cp">Code postal</label>
+        <input type="text" name="cp" id="cp" />
+      </div>
+      <div>
+        <label for="ville">Ville</label>
+        <input type="text" name="ville" id="ville" />
+      </div>
+      <!-- Les champs ci-dessous afficheront la latitude et la longitude -->
+      <div>
+        <label for="lat">Latitude</label>
+        <input type="text" name="lat" id="lat" />
+      </div>
+      <div>
+        <label for="lon">Longitude</label>
+        <input type="text" name="lon" id="lon" />
+      </div>
+    </form>
 
     <!-- fichiers js -->
     <script

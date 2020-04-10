@@ -5,17 +5,6 @@
       "type": "Feature",
       "properties": {},
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.305656,
-          43.757676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -397,84 +386,6 @@
     {
       "type": "Feature",
       "properties": {
-        "osm_id": 158883,
-        "osm_type": "R",
-        "extent": [
-          1.2962791,
-          43.7072316,
-          1.3594759,
-          43.6609443
-        ],
-        "country": "France",
-        "osm_key": "place",
-        "osm_value": "village",
-        "postcode": "31840",
-        "name": "Aussonne",
-        "state": "Occitania"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.31799,
-          43.682895
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "osm_id": 158875,
-        "osm_type": "R",
-        "extent": [
-          1.3505404,
-          43.6793113,
-          1.4001968,
-          43.6566724
-        ],
-        "country": "France",
-        "osm_key": "place",
-        "osm_value": "village",
-        "postcode": "31700",
-        "name": "Beauzelle",
-        "state": "Occitania"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.37302,
-          43.6689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "osm_id": 34917,
-        "osm_type": "R",
-        "extent": [
-          1.3473655,
-          43.6665816,
-          1.4068502,
-          43.6153211
-        ],
-        "country": "France",
-        "osm_key": "place",
-        "osm_value": "town",
-        "postcode": "31700",
-        "name": "Blagnac",
-        "state": "Occitania"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.37799,
-          43.6434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "osm_id": 35078,
         "osm_type": "R",
         "extent": [
@@ -586,97 +497,6 @@
               43.783643
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "osm_id": 147291,
-        "osm_type": "R",
-        "extent": [
-          1.2020904,
-          43.8033544,
-          1.35607,
-          43.7373995
-        ],
-        "country": "France",
-        "osm_key": "place",
-        "osm_value": "village",
-        "postcode": "31330",
-        "name": "Grenade",
-        "state": "Occitania"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.293192,
-          43.772336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Labo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.309599,
-          43.758274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "osm_id": 148352,
-        "osm_type": "R",
-        "extent": [
-          1.237206,
-          43.7509731,
-          1.3463537,
-          43.694479
-        ],
-        "country": "France",
-        "osm_key": "place",
-        "osm_value": "village",
-        "postcode": "31330",
-        "name": "seilh",
-        "state": "Occitania"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.297866,
-          43.721342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "osm_id": 158877,
-        "osm_type": "R",
-        "extent": [
-          1.3389636,
-          43.7129313,
-          1.3754888,
-          43.6710933
-        ],
-        "country": "France",
-        "osm_key": "place",
-        "osm_value": "village",
-        "postcode": "31840",
-        "name": "Seilh",
-        "state": "Occitania"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.353488,
-          43.694573
         ]
       }
     }
